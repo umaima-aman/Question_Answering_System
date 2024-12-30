@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/5c9ddde2-7411-4a92-be9f-4a2733234732)
 
 This project implements a **Retrieval-Augmented Generation (RAG)** model that combines **document retrieval** with **text generation** for answering user queries. The system uses **LangChain** and **Chainlit** to provide an interactive chatbot interface that retrieves relevant documents from a set of text files and generates context-aware responses. The core functionality is based on the **FLAN-T5 model** for text generation and **sentence-transformers** for document retrieval.
 
